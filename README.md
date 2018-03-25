@@ -1,2 +1,2 @@
 # Hello-world
-First repository
+Friends is the best series ever
